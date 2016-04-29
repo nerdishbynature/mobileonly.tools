@@ -9,4 +9,16 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+  <!-- Twitter Cards -->
+  <meta name="twitter:card" content="app">
+  <meta name="twitter:site" content="@Git2Go">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip }}{% else if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
+  <!-- Facebook og:tags -->
+  <meta property="og:title"content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta property="og:site_name" content="git2go.com"/>
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip }}{% else if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+  <meta property="og:type" content="article" />
 </head>

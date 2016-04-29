@@ -2,7 +2,6 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -22,6 +21,12 @@
     &:visited {
         color: $grey-color-dark;
     }
+}
+
+.site-logo {
+    margin: auto;
+    width: 50%;
+    display: block;
 }
 
 .site-nav {
@@ -185,13 +190,26 @@
 }
 
 .post-meta {
+    text-align: center;
     font-size: $small-font-size;
     color: $grey-color;
 }
 
-.post-link {
+.post-link a {
+    text-align: center;
     display: block;
     font-size: 24px;
+    color: $grey-color-dark;
+}
+
+.post-author {
+    text-align: center;
+}
+
+.post-author a {
+    text-align: center;
+    text-decoration: none;
+    color: $grey-color;
 }
 
 
@@ -207,10 +225,16 @@
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
+    text-align: center;
 
     @include media-query($on-laptop) {
         font-size: 36px;
     }
+}
+
+.share-links {
+    margin: auto;
+    width: 100%;
 }
 
 .post-content {
