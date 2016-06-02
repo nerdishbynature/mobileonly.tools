@@ -1,11 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
 title: Mobile Only Tools – Because Productivity matters, everywhere.
 email: mobileonlytools@nerdishbynature.com
 description: "Mobile platforms have become sublime at solving daily tasks you face in your personal or professional life.
@@ -13,3 +5,6 @@ description: "Mobile platforms have become sublime at solving daily tasks you fa
 url: "http://mobileonly.tools" # the base hostname & protocol for your site
 twitter_username: MobileOnlyTools
 markdown: kramdown
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
