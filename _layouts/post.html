@@ -4,6 +4,9 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
+    {% if page.header_image %}
+    <img src="{{ post.header_image | prepend: site.baseurl }}">
+    {% endif %}
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.twitter_username %} by <a href="https://twitter.com/{{ page.twitter_username }}">@{{ page.twitter_username }}</a>{% endif %}{% if page.readtime %} – {{ page.readtime }}{% endif %}</p>
     <!--<div class="share-links">
