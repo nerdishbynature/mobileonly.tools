@@ -3,7 +3,7 @@ layout: post
 title: 7 Workflows we cannot live without
 twitter_username: pietbrauer
 categories: blog
-readtime: 5 minutes
+readtime: 5 min read
 ---
 
 
