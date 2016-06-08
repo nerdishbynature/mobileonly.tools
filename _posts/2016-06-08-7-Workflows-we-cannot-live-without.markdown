@@ -4,6 +4,7 @@ title: 7 Workflows we cannot live without
 twitter_username: pietbrauer
 categories: blog
 readtime: 5 min read
+header_image: "/img/2016-06-08-workflow-header.jpg"
 ---
 
 
