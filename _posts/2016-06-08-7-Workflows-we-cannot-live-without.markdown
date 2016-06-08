@@ -24,31 +24,31 @@ Downloading files from the Internet can be a challenge using standard iOS tools 
 
 Sometimes it can be handy to save an article you read on the Internet as PDF. Imagine you wrote a note using the built-in Notes app and want to send it to a friend as a PDF. Things again impossible until Apple adds export as PDF to AirPrint. But Workflow has you covered here with the make PDF action. This action accepts Rich Text, Text and URLs. It can be triggered from the standard iOS share action. You can save the resulting PDF or send it off directly via Mail or Messages.
 
-[Get the workflow](https://workflow.is/workflows/ac472e47dac34782b071f04f573b00b6)
+[Get the workflow](https://workflow.is/workflows/6c59fc0178034b258881325c11d4cc43)
 
 ## 3. Days Between
 
 Ever wondered how many days are between two dates? There is a workflow for that. I personally used this a fair bit to see how many nights we have to book a Hotel for or to see how many days are left this month. This workflow can be triggered from the Today Widget or from your Apple Watch. Very handy in conversations and quick interactions. You can change this workflow to always use the current date as the start instead of asking for it every time.
 
-[Get the workflow](https://workflow.is/workflows/ac472e47dac34782b071f04f573b00b6)
+[Get the workflow](https://workflow.is/workflows/7011be710c6a4a9a988b61f075b7f39b)
 
 ## 4. Delete latest screenshots
 
 Is your iCloud storage running low on space again or is your photo stream full of screenshots and you would like to clean up a bit? Sure, you could go through the Screenshots photo album and select every screenshot to be deleted. You can also let your iOS device do the hard work for you and carry on with your day. This workflow asks you for the number of screenshots you want to delete and goes through your screenshots with you. It lets you skip multiple photos, if you want to keep some of the precious screenshots. All options can also be disabled making sure you get rid of your photos fast and easy.
 
-[Get the workflow](https://workflow.is/workflows/0e29efa2aff5403caa65eb026425f189)
+[Get the workflow](https://workflow.is/workflows/7e5f7c788b3446fab6839db2557fc698)
 
 ## 5. Get current price of an app in the App Store
 
 If you are as excited about productivity apps as we are, chances are you want to tell someone else about them. The first question that usually comes up is how much the app costs. But since you already own the app, the App Store is hiding the price from you. Once again a workflow to the rescue. Trigger this workflow directly from the apps App Store page and it will tell you the current price in a blink of an eye.
 
-[Get the workflow](https://workflow.is/workflows/ba45b10aa0134195993a12e0b2c14dc3)
+[Get the workflow](https://workflow.is/workflows/00a3d2aadadf45dc987b08023437c79f)
 
 ## 6. Direct Dropbox Link
 
 There are times in a life of a human being where it is necessary to get directly to something. Sharing files in Dropbox is one of them. The Dropbox app and website only give you links that result on a website which has the file embedded. Worry no more. This workflow gets straight to it. Trigger it right from the Dropbox app and it will copy a direct link to your clipboard. Perfect for embedding an image in a website or to use it in the file downloader action from the beginning of this article.
 
-[Get the workflow](https://workflow.is/workflows/ba45b10aa0134195993a12e0b2c14dc3)
+[Get the workflow](https://workflow.is/workflows/5288d7be1bd24b00ab1a43d74565d713)
 
 ## 7. Cross-Post
 
