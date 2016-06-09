@@ -40,6 +40,6 @@ Once the conversion finishes you can play the file directly in iConv or use the 
 
 ## Conclusion
 
-If you are making the switch to iOS and are searching fo a way to convert video on your iOS device, without the need to upload them, [iConv](#) is a great option and comes at a $3.99 price tag.
+If you are making the switch to iOS and are searching fo a way to convert video on your iOS device, without the need to upload them, [iConv](https://itunes.apple.com/us/app/iconv-video-converter/id972534752?mt=8) is a great option. The app is free and comes with a $4.99 In-App Purchase to remove the ads and unlock additional features.
 
 The app is definitely quite niche right now but a great addition to any productivity setup. You know, when a Windows friend sends you a WMV file.
