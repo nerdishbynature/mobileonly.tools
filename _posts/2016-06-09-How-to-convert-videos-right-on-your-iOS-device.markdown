@@ -3,7 +3,7 @@ layout: post
 title: How to convert videos right on your iOS device
 twitter_username: pietbrauer
 categories: blog
-readtime: 4 minutes
+readtime: 4 min read
 ---
 
 __Videos really take advantage of the brilliant screen built into todays iOS devices. Too bad they only support playing MP4 files. Learn how to convert videos right on your device.__
