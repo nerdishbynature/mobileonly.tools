@@ -6,9 +6,8 @@ categories: blog
 readtime: 4 minutes
 ---
 
-# How to convert videos right on your iOS device
-
 __Videos really take advantage of the brilliant screen built into todays iOS devices. Too bad they only support playing MP4 files. Learn how to convert videos right on your device.__
+
 
 When switching from your PC or Mac to living on the iPad, and in the iOS ecosystem, you are going to miss some things for sure. One of the things I missed recently was having a great and customizable tool to convert videos. On your Mac or PC you would use an app like [Handbrake](https://handbrake.fr/ "Handbrake") but sadly this is not available on iOS.
 
