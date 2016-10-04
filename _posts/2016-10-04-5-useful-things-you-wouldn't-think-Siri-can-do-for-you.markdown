@@ -7,9 +7,9 @@ readtime: 4 min read
 header_image: "/img/2016-10-04-Siri-header.jpg"
 ---
 
-# 5 useful things you wouldn't think Siri can do for you
-
 __Siri is your personal assistant in your pocket. Personally, I had a love-hate relationship with it until I discovered what it could do for me. Siri is super capable, speaks over 20 languages and is always there for you with a simple "Hey Siri".__
+
+
 
 Siri got released 4 years ago on October 4, 2011 and is available for iOS, watchOS, tvOS and since Sierra also for macOS. It got physical when the fourth generation Apple TV got introduced with a [Siri Remote](https://en.m.wikipedia.org/wiki/Siri_Remote). It is the only personal assistant that speaks twenty languages, including Chinese, Danish, Japanese, Korean and Malay. Many of us use it daily for ordinary tasks, but I would love to show you my five favorite commands I didn't know existed.
 
