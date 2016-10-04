@@ -69,7 +69,7 @@ This can be handy if you are putting a presentation together or want to remember
 
 __Hey Siri, show me photos of sports cars__
 
-This will open photos with the selected query. You have to unlock your phone to do that but once you do it does a very good job.
+This will open photos with the selected query. You have to unlock your phone to do that but once you do, it does a very good job.
 
 ![](/img/2016-10-04-Siri-Photos.JPG)
 
