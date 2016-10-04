@@ -9,9 +9,9 @@ header_image: "/img/2016-10-04-Siri-header.jpg"
 
 # 5 useful things you wouldn't think Siri can do for you
 
-__Siri is your personal assistant in your pocket. Personally, I had a love-hate relationship with her until I discovered what she could do for me. Siri is super capable, speaks over 20 languages and is always there for you with a simple "Hey Siri".__
+__Siri is your personal assistant in your pocket. Personally, I had a love-hate relationship with it until I discovered what it could do for me. Siri is super capable, speaks over 20 languages and is always there for you with a simple "Hey Siri".__
 
-Siri got released 4 years ago on October 4, 2011 and is available for iOS, watchOS, tvOS and since Sierra also for macOS. It got physical when the fourth generation Apple TV got introduced with a [Siri Remote](https://en.m.wikipedia.org/wiki/Siri_Remote). And is the only personal assistant that speaks twenty languages, including Chinese, Danish, Japanese, Korean and Malay. Many of us use it daily for ordinary tasks, but I would love to show you my five favorite commands I didn't know existed.
+Siri got released 4 years ago on October 4, 2011 and is available for iOS, watchOS, tvOS and since Sierra also for macOS. It got physical when the fourth generation Apple TV got introduced with a [Siri Remote](https://en.m.wikipedia.org/wiki/Siri_Remote). It is the only personal assistant that speaks twenty languages, including Chinese, Danish, Japanese, Korean and Malay. Many of us use it daily for ordinary tasks, but I would love to show you my five favorite commands I didn't know existed.
 
 ## 1. Currency conversion
 
@@ -38,7 +38,7 @@ __Hey Siri, how many days until Christmas?__
 
 ## 3. Time
 
-Of course you can look at the clock to find out the time, but sometimes you have to set a meeting in a different country on a different continent in a different time zone and we all know how this might end. To help you, Siri can do the same queries as with Dates. Ask her what the time at home is or how late it is in Singapore. Simple and safe.
+Of course you can look at the clock to find out the time, but sometimes you have to set a meeting in a different country on a different continent in a different time zone and we all know how this might end. To help you, Siri can do the same queries as with Dates. Ask what time it is at home or how late it is in Singapore. Simple and safe.
 
 __Hey Siri, what time is it in Singapore?__
 
@@ -46,7 +46,7 @@ __Hey Siri, what time is it in Singapore?__
 
 ## 4. Messaging
 
-New in iOS 10 are Messenger extensions for Siri. Many people love dictating messages on their phone. Why not take it to the next level and compose the whole message and send it with your favorite messaging app? This lets you keep your hands on the wheel or in the dough and still text with your friends or coworkers using [WhatsApp](https://itunes.apple.com/en/app/whatsapp-messenger/id310633997?mt=8),  [Telegram](https://itunes.apple.com/en/app/telegram-messenger/id686449807?mt=8) or iMessage.
+Many people love dictating messages on their phone. New in iOS 10 are Messenger extensions for Siri. Why not take it to the next level and compose the whole message and send it with your favorite messaging app? This lets you keep your hands on the wheel or in the dough and still text with your friends or coworkers using [WhatsApp](https://itunes.apple.com/en/app/whatsapp-messenger/id310633997?mt=8),  [Telegram](https://itunes.apple.com/en/app/telegram-messenger/id686449807?mt=8) or iMessage.
 
 __Hey Siri, text Julia von Kallenberg I'm in a meeting__
 
@@ -69,7 +69,7 @@ This can be handy if you are putting a presentation together or want to remember
 
 __Hey Siri, show me photos of sports cars__
 
-This will open photos with the selected query. You have to unlock your phone to do that but once you do it does a very good job at this.
+This will open photos with the selected query. You have to unlock your phone to do that but once you do it does a very good job.
 
 ![](/img/2016-10-04-Siri-Photos.JPG)
 
@@ -77,4 +77,4 @@ This will open photos with the selected query. You have to unlock your phone to 
 
 Now that we have seen which five useful things Siri can do for us, we can go on and explore the nearly endless possibilities of Apples personal assistant that speaks your language. If you want to explore more, the folks over at [Hey-Siri.io](http://hey-siri.io "Hey-Siri.io") got you covered. They are currently working on a new version of the website, which takes the brand new Siri extensions of iOS 10 into account. Their website currently supports English and German as well as iOS and macOS Sierra.
 
-Siri can not only help you on your iOS devices but also in your car. If your car supports [CarPlay](http://www.apple.com/ios/carplay/), you can use your integrated Infotainment system to interact with iOS apps using Siri. Helping you to keep your hands on the wheel.
+Siri can not only help you on your iOS devices but also in your car. If your car supports [CarPlay](http://www.apple.com/ios/carplay/), you can use your integrated Infotainment system to interact with iOS apps using Siri. Helping you to keep focused on traffic.
