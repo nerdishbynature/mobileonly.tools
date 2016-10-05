@@ -4,6 +4,7 @@ title: How to extract ZIP or RAR archives on your iOS device for free
 twitter_username: pietbrauer
 categories: blog
 readtime: 3 min read
+header_image: "/img/2016-10-05-Extract-Archives-Header.jpg"
 ---
 
 __The internet is full of technology that saves device storage space and bandwidth to get files to your device faster. But iOS lacks a built-in way to extract ZIP or RAR files leaving you staring at an archive instead of enjoying the latest home movie of a friend. But we got you covered, 100% for free, without ads and iPad Pro optimized.__
