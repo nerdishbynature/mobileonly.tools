@@ -22,7 +22,7 @@ Document Providers where introduced in 2014 to help apps like Dropbox and Google
 - __Open__: Open a markdown file from [Documents](https://itunes.apple.com/us/app/documents-5-file-manager-pdf/id364901807?mt=8) in [Ulysses](https://itunes.apple.com/us/app/ulysses/id950335311?mt=8) and edit the contents in place
 - __Move__: Move a text file from [Ulysses](https://itunes.apple.com/us/app/ulysses/id950335311?mt=8) to [Documents](https://itunes.apple.com/us/app/documents-5-file-manager-pdf/id364901807?mt=8) (this will delete the file in Ulysses)
 
-As you can see, you can do any operation you want using document providers. Unfortunately they aren't unified and it depends on the app you are using which operations they support and how they are implemented. But lets dive into the examples.
+As you can see, you can do any operation you want using document providers. Unfortunately they aren't unified and it depends on the app you are using which operations they support and how they are implemented. Lets dive into the examples.
 For most of our articles I need to take screenshots, alter them in different ways and import them into Ulysses. To do so, I use iCloud Drive, Workflow and Pixelmator.
 
 ## Export Pictures to iCloud Drive
