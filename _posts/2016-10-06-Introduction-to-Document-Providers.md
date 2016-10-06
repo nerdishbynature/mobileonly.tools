@@ -27,19 +27,19 @@ For most of our articles I need to take screenshots, alter them in different way
 
 ## Export Pictures to iCloud Drive
 
-For this article I made screenshots to show you the different actions. I took the screenshots, framed them using [Workflow](https://workflow.is/workflows/ffd63c38cfc94b2c888cf4f15d0f9f22) and exported put them into a folder in Photos. After I annotated them, I export them into iCloud Drive and organize them into my folder structure.
+For this article I made screenshots to show you the different actions. I took the screenshots, framed them using [Workflow](https://workflow.is/workflows/ffd63c38cfc94b2c888cf4f15d0f9f22) and put them into a folder in Photos. After I annotated them, I exported them into iCloud Drive and organized them into my folder structure.
 
 ![](/img/2016-10-06-Document-Provider-1.PNG)
 ![](/img/2016-10-06-Document-Provider-0.PNG)
 
 ## Edit in Pixelmator
 
-Now that all my photos framed and named, I can edit them in Pixelmator to blur off parts of the screenshot. To do that import them from iCloud Drive using the `Add` icon in the upper left corner and choose `iCloud Drive`. After I have done my edits, I choose the `Share` icon in the navigation bar and choose `Send to iCloud Drive` and export the image as JPEG file to iCloud Drive.
+Now that all my photos framed and named, I can edit them in Pixelmator to blur off parts of the screenshot. To do that, I import them from iCloud Drive using the `Add` icon in the upper left corner and choose `iCloud Drive`. After I have done my edits, I choose the `Share` icon in the navigation bar and choose `Send to iCloud Drive` to export the image as JPEG file to iCloud Drive.
 
 ![](/img/2016-10-06-Document-Provider-4.PNG)
 
 ## Conclusion
 
-This is a small introduction on working with Document Providers and I am sure you will notice them from now on if you haven't already. One hint: they are often labeled as `iCloud Drive` even if other apps offer the same Document Provider features. You can switch between them using the `Locations` button in the navigation bar.
+This is a small introduction on working with Document Providers. I am sure you will notice them from now on if you haven't already. One hint: they are often labeled as `iCloud Drive` even if other apps offer the same Document Provider features. You can switch between them using the `Locations` button in the navigation bar.
 
 ![](/img/2016-10-06-Document-Provider-5.PNG)
