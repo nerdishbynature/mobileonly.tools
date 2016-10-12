@@ -66,4 +66,6 @@ Action extensions not only work on files, but on urls and text as well. An inter
 
 ## Conclusion
 
-As you see, share and action extensions are great ways to take advantage of system functionality or even extend them using Workflow. One important thing to note is that action extensions provided by other apps are not displayed automatically. Tap on the more Icon in the list and enable them.
+As you see, share and action extensions are great ways to take advantage of system functionality or even extend them using Workflow. One important thing to note is that action extensions provided by other apps are not displayed automatically. Tap on the more Icon in the list and enable them. Once you enabled them you will see them all around iOS and it will help you accomplish your daily tasks even faster.
+
+
