@@ -15,7 +15,7 @@ There are two types of extensions present in iOS apps: share and action extensio
 - Share to (Facebook, Twitter, Reminders, Notes etc.)
 - Import with (Dropbox, Mailchimp, PDF Expert etc.)
 
-![](/img/2016-10-11-Share-Action-Extensions-0.PNG)
+![](/img/2016-10-11-Share-Action-Extensions-0.jpg)
 
 While these examples look straight forward, everything that does not fit into the above list should be an action extension:
 
@@ -24,7 +24,7 @@ While these examples look straight forward, everything that does not fit into th
 - Run Workflow
 - Save Image
 
-![](/img/2016-10-11-Share-Action-Extensions-1.PNG)
+![](/img/2016-10-11-Share-Action-Extensions-1.jpg)
 
 They can be application specific. A developer can decide if his action extension is only available in their app only or in any other. The only way to get it out of their apps is to talk to them and ask them to make it available.
 
@@ -62,7 +62,7 @@ A workflow I use when writing this blog is the [Screenshot Builder Action](http:
 
 Action extensions not only work on files, but on urls and text as well. An interesting workflow is to [tweet the currently selected text in a Safari Webpage](https://workflow.is/workflows/3d6d2b5d4ce746ed87bc97ef2ea6cfc9).
 
-![](/img/2016-10-11-Share-Action-Extensions-5.PNG)
+![](/img/2016-10-11-Share-Action-Extensions-5.jpg)
 
 ## Conclusion
 
