@@ -4,6 +4,7 @@ title: How we write this blog solely on iOS
 twitter_username: pietbrauer
 categories: blog
 readtime: 4 min read
+header_image: "/img/2016-10-13-Blog-on-iOS-Header.jpg"
 ---
 
 __Seven articles into this blog journey I think it is time to talk about our setup. Most of you might not realize that everything on this blog was done on an iOS devices, yes also on iPhone.__
