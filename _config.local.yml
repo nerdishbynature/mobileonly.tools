@@ -1,0 +1,10 @@
+title: Mobile Only Tools – Because Productivity matters, everywhere.
+email: mobileonlytools@nerdishbynature.com
+description: "Mobile platforms have become sublime at solving daily tasks you face in your personal or professional life.
+    We want to showcase solutions that enable you to do even more."
+url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+twitter_username: MobileOnlyTools
+markdown: kramdown
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
