@@ -6,8 +6,6 @@ categories: blog
 readtime: 3 min read
 ---
 
-# 3 VPN Providers that work well with iOS
-
 __Most users use their iPad or iPhone when they are not at their desk or at home. This comes at a security risk. Connecting to airport or coffee shop wifi often means unencrypted connections. VPN providers help fix that. Here are three that work well on iOS.__
 
 
