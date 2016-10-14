@@ -29,4 +29,4 @@ I am a big fan of [Tunnelbear](https://itunes.apple.com/de/app/tunnelbear-free-v
 
 ## Conclusion
 
-I picked these three VPN providers as they offer a bit of everything. F-Secure is very good for security intensive work, Opera is free and good enough for private use and casual browsing and Tunnelbear is a jack of all trades and my recommendation to you. You can [start with the free plan](http://click.tunnelbear.com/affc?offerid=2&aff_id=2217) to try it out.
+I picked these three VPN providers as they offer a bit of everything. F-Secure is very good for security intensive work, Opera is free and good enough for private use and casual browsing and Tunnelbear is a jack of all trades and my recommendation to you. You can [start with the free plan](http://click.tunnelbear.com/aff_c?offer_id=2&aff_id=2217) to try it out.
