@@ -22,7 +22,7 @@ As soon as I heard of the update yesterday I tried it out and was able to accomp
 
 *Note: To use the workflow you will need a Mailchimp account and an API token from their website.*
 
-![](/img/2016-10-19-Workflow-Web-API-0.png)
+![](/img/2016-10-19-Workflow-Web-API-0.jpg)
 
 
 [__Get the workflow__](https://workflow.is/workflows/253d05fd2e754e56bfeedcc5ce5598f7)
