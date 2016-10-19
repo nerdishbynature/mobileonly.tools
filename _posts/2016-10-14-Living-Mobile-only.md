@@ -32,7 +32,7 @@ Back on my way to Barcelona. I board my flight at 14:45 o'clock from Hamburg Air
 
 Thanks to the typewriter mode in [Ulysses](https://itunes.apple.com/de/app/ulysses/id950335311?l=en&mt=8&at=1010lqa9) and no emails or notifications distracting my writing the first 630 words and doing the list took only fifteen minutes. Whenever I wanted to work using my MacBook on a plane, I found it to be very uncomfortable as most of the apps are not designed to work offline and the trays of the aircrafts are never deep enough for the screen to fit. No issues with the iPad Pro, the Smart Keyboard fits perfectly on the small tray and the screen angle is superb for my seating position. I could see all my [Trello](https://itunes.apple.com/de/app/trello/id461504587?l=en&mt=8&at=1010lqa9) cards without having to connect to a network, begin to write using Ulysses and send photos from my iPhone to my iPad via AirDrop using Bluetooth.
 
-![](/img/Image%2012-10-2016,%2016-28.jpeg "My desk for the afternoon")
+![](/img/2016-10-19-Living-Mobile-Only-0.jpg "My desk for the afternoon")
 
 I arrive in Barcelona 18:10 o'clock. Having only hand luggage with me I quickly got out of the airport and boarded the A1 bus towards the city center. I downloaded the bus route using [CityMapper](https://itunes.apple.com/de/app/citymapper-ultimate-transit/id469463298?l=en&mt=8&at=1010lqa9) on my iPhone and felt prepared. I had the exact change for the return ticket and began my hour long route into Barcelona. I have never been and the main reasons for coming were the warmer weather and seeing a few friends again. One of them is soon leaving her flat for a life as a Digital Nomad without permanent housing. She was also the first one I saw using an iPad Pro earlier in 2016 as a fabric designer using the Apple Pencil and [Procreate](https://itunes.apple.com/de/app/procreate-sketch-paint-create./id425073498?l=en&mt=8&at=1010lqa9). I am excited to hear how far she has come using the iPad.
 Entirely wet from the pouring rain I arrive at my apartment for the week and spend the rest of the day watching House of Cards (still Season 2).
@@ -71,7 +71,7 @@ Today is also my last evening in Barcelona, I meet up with the same friend from 
 
 Last day, I set up three alarms. I wake up at the first one and am annoyed by the other two that interrupt me reading my Twitter feed and replying to email. I pack my last things into my bag and am delighted by the light luggage again. I leave my AirBnB, get to the metro using Apple Maps on my Apple Watch. I like it because it does not make you look like a tourist. It taps your wrist with the directions. This makes it seem like you know the way even if you don't. Public transport in Barcelona is easy to navigate with and I quickly find the already waiting airport shuttle bus. I already bought the return ticket on the day of my arrival. The bus is packed but I am able to find an empty seat as some of the passengers refuse to sit down. I decided to go to the airport immediately after getting up. This gives me time to have breakfast and finish writing this article.
 
-![](/img/Image%2019-10-2016,%2011-07.jpeg)
+![](/img/2016-10-19-Living-Mobile-Only-1.jpg)
 
 I still have to go through my bucket list:
 
@@ -88,7 +88,7 @@ Not too bad, only one thing I did not accomplish. I figure the review of the exp
 
 ## See you Barcelona
 
-![](/img/Image%2019-10-2016,%2011-08.jpeg)
+![](/img/2016-10-19-Living-Mobile-Only-2.jpg)
 
 I really enjoyed living in Barcelona for a short while. It is such a lovely city if you have one or two friends living there that show you the hidden corners of it. The food was delicious. I enjoyed the drinks and the beautiful weather. Walking around in October only with a T-Shirt and Jeans has its advantages. I am not looking forward to turning on the heating at home knowing there are other parts of the world I could be where I don't have to freeze.
 My iPad only week was a success. I never worked on my upcoming web app from my iPad before and I enjoyed how easy it was to do so. It is the finding of the week. My plan is to dig into the Firebug Lite code so it is a bit more pleasant to look at in the browser. It is very unfortunate that I can't code iOS apps using only my iPad but it will come in due course, I guess.
