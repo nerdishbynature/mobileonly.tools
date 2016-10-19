@@ -4,7 +4,7 @@ title: New Workflow Update with Web API Feature
 twitter_username: pietbrauer
 categories: blog
 readtime: 2 min read
-header_image: "/img/2016-10-19-Workflow-Web-API.jpg"
+header_image: "/img/2016-10-19-Workflow-Web-API-Header.jpg"
 ---
 
 __Workflow is one of my most loved apps on my iPad and iPhone. A thing I was missing was being able to interact with Web APIs and this is now resolved in the new update. Let us dive in and see what's possible.__
