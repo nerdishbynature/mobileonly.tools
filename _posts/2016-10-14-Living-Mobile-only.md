@@ -80,7 +80,7 @@ Last day, I set up three alarms. After waking up at the first one the other two 
 
 ![](/img/2016-10-19-Living-Mobile-Only-1.jpg)
 
-I still have to go over my bucket list once again:
+I still have to go over my to-do list once again:
 
 - Write three articles for MobileOnly.Tools
 	- 5 apps that integrate well with Document Providers ❌
