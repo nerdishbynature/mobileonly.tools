@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Living mobile only for a week. My Barcelona experiment.
+title: Living mobile-only for a week. My Barcelona experiment.
 twitter_username: pietbrauer
 categories: blog
 readtime: 11 min read
@@ -74,7 +74,7 @@ I deployed a new version which I sent to my mom later.
 
 This was also my last evening in Barcelona. I met up with the same friend from the day before to have tapas and a few beers for dinner before packing my bag for an early departure the next day.
 
-## Tuesday, Day 6
+## Tuesday, Day 7
 
 Last day, I set up three alarms. After waking up at the first one the other two annoyed me by interrupting me while reading my Twitter feed and replying to email. I packed the last couple of things into my bag and was delighted by the light luggage again. I left my AirBnB and got to the metro using Apple Maps on my Apple Watch. I like it because it does not make you look like a tourist. It taps your wrist with the directions. This makes it seem like you know the way even if you don't. Public transport in Barcelona is easy to navigate with and I quickly found the already waiting airport shuttle bus. The bus was packed but I was able to find an empty seat as some other passengers refused to sit down. I had decided to go to the airport immediately after getting up to have enough time for breakfast and finish writing this article.
 
