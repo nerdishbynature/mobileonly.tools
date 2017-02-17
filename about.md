@@ -4,11 +4,11 @@ title: Legal
 permalink: /imprint/
 ---
 
-Piet Brauer
+nerdish by nature
 
-St. Georgstr. 8
+Lehmbruckstr. 3
 
-20099 Hamburg
+10245 Berlin
 
 piet@nerdishbynature.com
 
