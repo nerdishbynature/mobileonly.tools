@@ -13,6 +13,7 @@ layout: default
         <a href="{{ post.url | prepend: site.baseurl }}"><img class="post-header-image" src="{{ post.header_image | prepend: site.baseurl }}"></a>
         {% endif %}
         <p class="post-excerpt">{{ post.excerpt | strip_html }}</p>
+        <hr />
       </li>
     {% endfor %}
   </ul>
