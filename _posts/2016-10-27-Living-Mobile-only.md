@@ -48,7 +48,7 @@ I was meeting a friend later that day to get some more work done and talk a bit.
 
 ## Friday, Day 3
 
-I really liked the coffee shop I had visited the day before. So after sleeping longer than I wanted, I headed there to get brunch and a coffee to get me started on writing. I prepared my foreword for the mailing list and was shocked that I had only written [one article](http://mobileonly.tools/blog/2016/10/13/How-we-write-this-blog-solely-on-iOS.html) that week. I decided to improve in the following week.
+I really liked the coffee shop I had visited the day before. So after sleeping longer than I wanted, I headed there to get brunch and a coffee to get me started on writing. I prepared my foreword for the mailing list and was shocked that I had only written [one article](https://mobileonly.tools/blog/2016/10/13/How-we-write-this-blog-solely-on-iOS.html) that week. I decided to improve in the following week.
 While traveling with my girlfriend earlier this year we discovered that it takes around two to three days to get comfortable in a new city and to find good places where to work from.
 I decided to write a short second article so the first one would not feel lonely in the mailing. The weather improved drastically. Time to go to the beach! Due to the weather conditions the waves were especially high and there were loads of surfers whom I watched surfing before going for a walk.
 After walking sixteen and a half kilometers I just watched a few episodes House of Cards and called it a day.

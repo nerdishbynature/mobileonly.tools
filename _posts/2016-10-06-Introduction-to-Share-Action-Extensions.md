@@ -36,7 +36,7 @@ Any action in a share extension will take the selected content and send it to an
 
 Developers can provide custom UI, like Notes, or use the standard look and feel, like Twitter.
 
-There is a third kind of share extensions that gets automatically added when a developer supports certain types of files. These follow the naming scheme *Copy to…* (before iOS 10) and *Import with…* (iOS 10). They take the selected file and copy them into the selected app. This is similar to document providers discussed in our [Introduction to Document Providers](http://mobileonly.tools/blog/2016/10/06/Introduction-to-Document-Providers.html) article.
+There is a third kind of share extensions that gets automatically added when a developer supports certain types of files. These follow the naming scheme *Copy to…* (before iOS 10) and *Import with…* (iOS 10). They take the selected file and copy them into the selected app. This is similar to document providers discussed in our [Introduction to Document Providers](https://mobileonly.tools/blog/2016/10/06/Introduction-to-Document-Providers.html) article.
 
 ![](/img/2016-10-11-Share-Action-Extensions-3.jpg)
 
@@ -56,9 +56,9 @@ You can try it out yourself by going to notes and select the share icon (Square 
 
 ### Run Workflow
 
-Workflow is an app that lets you build small apps yourself and use them anywhere in iOS by running as an action extension. We showed you [7 Workflows we cannot live without](http://mobileonly.tools/blog/2016/06/08/7-Workflows-we-cannot-live-without.html) in a previous article.
+Workflow is an app that lets you build small apps yourself and use them anywhere in iOS by running as an action extension. We showed you [7 Workflows we cannot live without](https://mobileonly.tools/blog/2016/06/08/7-Workflows-we-cannot-live-without.html) in a previous article.
 
-A workflow I use when writing this blog is the [Screenshot Builder Action](http://mobileonly.tools/blog/2016/06/08/7-Workflows-we-cannot-live-without.html) which takes a screenshot and posts the device frame around it so it looks beautiful.
+A workflow I use when writing this blog is the [Screenshot Builder Action](https://mobileonly.tools/blog/2016/06/08/7-Workflows-we-cannot-live-without.html) which takes a screenshot and posts the device frame around it so it looks beautiful.
 
 Action extensions not only work on files, but on urls and text as well. An interesting workflow is to [tweet the currently selected text in a Safari Webpage](https://workflow.is/workflows/3d6d2b5d4ce746ed87bc97ef2ea6cfc9).
 

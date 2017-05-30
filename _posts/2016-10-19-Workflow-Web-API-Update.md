@@ -10,7 +10,7 @@ header_image: "/img/2016-10-19-Workflow-Web-API-Header.jpg"
 __Workflow is one of my most loved apps on my iPad and iPhone. A thing I was missing was being able to interact with Web APIs and this is now resolved in the new update. Let us dive in and see what's possible.__
 
 
-Sometimes the simplest app is one that logs you in to a web service and uploads some text, image or video you created. In a [previous post](http://mobileonly.tools/blog/2016/10/06/Introduction-to-Share-Action-Extensions.html) we discussed Share and Action Extensions in iOS. So why not replace the app with a simple [Workflow](https://itunes.apple.com/de/app/workflow-powerful-automation/id915249334?l=en&mt=8&at=1010lqa9)? Well, now you can do exactly this.
+Sometimes the simplest app is one that logs you in to a web service and uploads some text, image or video you created. In a [previous post](https://mobileonly.tools/blog/2016/10/06/Introduction-to-Share-Action-Extensions.html) we discussed Share and Action Extensions in iOS. So why not replace the app with a simple [Workflow](https://itunes.apple.com/de/app/workflow-powerful-automation/id915249334?l=en&mt=8&at=1010lqa9)? Well, now you can do exactly this.
 
 A new Workflow version is now available in the AppStore and extends the familiar *Get Contents of URL* with two more HTTP method options: *POST* and *PUT*. Along with the new methods you also get access to the request headers and body. This gives you nearly endless possibilities.
 
